@@ -1,5 +1,7 @@
 A static webstite to test Azure CI.
 
+by Lukas Prommegger
+
 Template: by colorlib.com 
 
 For more awesome templates please visit https://colorlib.com/wp/templates/
